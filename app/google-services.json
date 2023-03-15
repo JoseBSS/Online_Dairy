@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "54932953701",
+    "project_id": "dairy-app-30b5b",
+    "storage_bucket": "dairy-app-30b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54932953701:android:2afa6239cf77775be6c48c",
+        "android_client_info": {
+          "package_name": "com.joberdev.online_dairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54932953701-icdpclmq85j61i8g5eor00vc2viqcr0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joberdev.online_dairy",
+            "certificate_hash": "47f9f22f5c4571f1c3c69e98c095bf826840cbc6"
+          }
+        },
+        {
+          "client_id": "54932953701-r546upmqadn07acchqvobvhfa511gven.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEXzYOllsEC9hWAet8kMOZX3WwAYHfw60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54932953701-r546upmqadn07acchqvobvhfa511gven.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

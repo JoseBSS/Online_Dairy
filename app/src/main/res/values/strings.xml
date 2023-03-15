@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Online Dairy</string>
+
+    <!--MAIN ACTIVITY-->
+    <string name="Btn_Login">Login</string>
+    <string name="Btn_Register">Register</string>
+
+    <!--Register Activity-->
+    <string name="CreateAccountTXT">Create an account</string>
+    <string name="NameEt">Names</string>
+    <string name="EmailEt">Email</string>
+    <string name="PasswordEt">Password</string>
+    <string name="ConfirmPasswordEt">Confirm Password</string>
+    <string name="RegisterUser">Register user</string>
+    <string name="GotAccountTXT">Have an account</string>
+
+    <!--Activity Login-->
+    <string name="LogInTxt">Log In</string>
+    <string name="EmailLogIn">Email</string>
+    <string name="PasswordLogIn">Password</string>
+    <string name="BtnLogIn">Get Into</string>
+    <string name="NewUserTxt">You do not have an account? Sign Up</string>
+
+    <!--Main Menu-->
+    <string name="CloseSession">Exit</string>
+    <string name="WelcomeMain">Welcome</string>
+    <string name="UidPrincipal"> -- </string>
+    <string name="NamesMain"> -- </string>
+    <string name="EmailMain"> -- </string>
+    <string name="AgregarNotas">Add</string>
+    <string name="ListarNotas">My Notes</string>
+    <string name="Archivados">Archived</string>
+    <string name="Perfiles">Profiles</string>
+    <string name="AcercaDe">About</string>
+
+</resources>
